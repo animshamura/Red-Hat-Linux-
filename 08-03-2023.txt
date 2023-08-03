@@ -1,4 +1,4 @@
-1  cd Desktop
+    1  cd Desktop
     2  touch file.pdf 
     3  ls
     4  touch /root/Music/Vamp.pdf 
