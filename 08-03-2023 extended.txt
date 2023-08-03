@@ -1,4 +1,4 @@
-154  lsblk
+  154  lsblk
   155  history
   156  lsblk
   157  lvreduce -L -1G  -r /dev/Bunker/Dude
