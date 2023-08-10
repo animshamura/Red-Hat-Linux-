@@ -1,4 +1,4 @@
-119  nmcli connection up ens33
+  119  nmcli connection up ens33
   120  yum install xclock
   121  yum repolist
   122  df -h
