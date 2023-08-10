@@ -1,4 +1,4 @@
-231  pwd
+  231  pwd
   232  ls
   233  history
   234  clear
