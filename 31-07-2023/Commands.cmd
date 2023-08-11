@@ -1,4 +1,4 @@
-[root@localhost ~]# history
+    [root@localhost ~]#history
     1  #alias
     2  ls -a
     3  #cat tail tac head less more
@@ -98,4 +98,4 @@
    97  history
    98  history | less
    99  history
-[root@localhost ~]# 
+  [root@localhost ~]# 
